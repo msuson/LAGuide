@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">LA Guide</string>
+    <string name="tab_restaurants">Food</string>
+    <string name="tab_parks">Parks</string>
+    <string name="tab_landmarks">Landmarks</string>
+    <string name="tab_museums">Museums</string>
+    <string name="kenneth_hahn">Kenneth Hahn State Recreation Park</string>
+    <string name="kenneth_hahn_desc">Kenneth Hahn is impressive in both size and topography for a park in the middle of the Westside. On top of the usual list of amenities, the Culver City park contains a lotus pond, fishing lake and sand volleyball court. This park beautiful park is home to over seven miles of walking and hiking trails through the Baldwin Hills.</string>
+    <string name="kenneth_hahn_uri">geo:0,0?q=Kenneth+Hahn+State+Recreation+Park</string>
+    <string name="el_dorado">El Dorado Nature Center</string>
+    <string name="el_dorado_desc">Slip away from the daily grind at this 105-acre plant and animal sanctuary. Start at the visitor center and you\'ll find two miles of dirt trails and a quarter-mile paved path that winds around two lakes, a stream and forested areas. The nature center is part of the larger El Dorado Regional Park.</string>
+    <string name="el_dorado_uri">geo:0,0?q=El+Dorado+Nature+Center+and+Regional+Park</string>
+    <string name="wdch">Walt Disney Concert Hall</string>
+    <string name="wdch_desc">Designed by architect Frank Gehry, Walt Disney Concert Hall is an internationally recognized architectural landmark and one of the most acoustically sophisticated concert halls in the world.</string>
+    <string name="wdch_uri">geo:0,0?q=Walt+Disney+Concert+Hall</string>
+    <string name="la_state_park">Los Angeles State Historic Park</string>
+    <string name="la_state_park_desc">With 32 acres of open space directly adjacent to Chinatown, L.A. State Historic Park boasts an amazing view of Downtown. The park was once home to major events like FYF, Renegade Craft Fair and Hard Summer, but all went quite with a major multi-year renovation that started in 2014.</string>
+    <string name="la_state_park_uri">geo:0,0?q=Los+Angeles+State+Historic+Park</string>
+    <string name="grand_park">Grand Park</string>
+    <string name="grand_park_desc">The slow lumbering mission to tur Downtown L.A. into a vibran cultural hub got a lift when a portion of Grand Park\'s 12 acres officially opened in 2012. Dotted with fountains, picnic lawns, bright pink benches, amd plenty of nooks from which to people-watch, Grand Park is a bright urban oasis that proves the city has a sense of romance.</string>
+    <string name="grand_park_uri">geo:0,0?q=Grand+Park</string>
+    <string name="echo_park">Echo Park Lake</string>
+    <string name="echo_park_desc">After a massive makeover, the Eastside\'s historic Ech Park Lake has finally become a family-friendly destination worthy of its bold backdrop: the Downtown skyline amid the lotus flower blooms and fountains. The lake has been around since 1860, it was once used as a drinking water reservoir, and later as a recreational park with canoes and fishing.</string>
+    <string name="echo_park_uri">geo:0,0?q=Echo+Park+Lake</string>
+    <string name="blu_jam">Blu Jam Cafe</string>
+    <string name="blu_jam_desc">Fighting the brunch crowds at Blu Jam Cafe, which has locations in Sherman Oaks, Hollywood and Woodland Hills, requires a special kind of patience. But with eggs Benedict that makes your shoulders slump with happiness and crunchy French toast that\'s hard to top, it\' well worth the wait.</string>
+    <string name="blu_jam_uri">geo:0,0?q=Blu+Jam+Cafe</string>
+    <string name="four_daughters">Four Daughters Kitchen</string>
+    <string name="four_daughters_desc">Four Daughters Kitchen started as a tiny hole in the wall - just a place where Manhattan Beach families could come for a cup of coffee, and a place where original owner Clint Clausen\'s own four daughters could come start the day with a slid meal. It has since grown into a breakfast, lunch and dinner destination, serving everything Longboard Burrito to pan roasted salmon and pasta.</string>
+    <string name="four_daughters_uri">geo:0,0?q=Four+Daughters+Kitchen</string>
+    <string name="salts_cure">Salt\'s Cure</string>
+    <string name="salts_cure_desc">The idea behind Salt\'s Cure is a noble one: every meal is made from ingredients grown and raised in California, all of which are carefully butchered and crafted in-house. And it\'s not just a tagline here; it\'s a way of life for the young chef/owners.</string>
+    <string name="salts_cure_uri">geo:0,0?q=Salt\'s+Cure</string>
+    <string name="sqirl">Sqirl</string>
+    <string name="sqirl_desc">What started as a preserves company is now one of L.A.\'s most coveted eateries: Sqirl, a small nook of a restaurant that serves breakfast and lunch made with farm-fresh ingredients. Jessica Koslow is still churning out jams, but this time you can get it spread on thick cuts of briohe toast with Sqirl\'s house ricotta.</string>
+    <string name="sqirl_uri">geo:0,0?q=Sqirl</string>
+    <string name="nicks">Nick\'s on 2nd</string>
+    <string name="nicks_desc">Brunch, steak, truffle mac and cheese - Nick\'s on 2nd is the neighborhood spot that seems to know exactly what you\'re craving, no matter what time of day it is. Stop by for fried chicken and waffles or a California omelet before heading out to the shore. On a sunny day, the front patio is perfect for watching people stroll by on 2nd street.</string>
+    <string name="nicks_uri">geo:0,0?q=Nick\'s+on+2nd</string>
+    <string name="the_bowl">The Hollywood Bowl</string>
+    <string name="the_bowl_desc">For more than 100 years, music and performance have had a central destination in Los Angeles. The Hollywood Bowl is a venue for showcasing artistic greatness and celebrating our global cultural heritage. It is also a proving ground for emerging artists and a living laboratory for experimentation and discovery.</string>
+    <string name="the_bowl_uri">geo:0,0?q=The+Hollywood+Bowl</string>
+    <string name="bradbury">Bradbury Building</string>
+    <string name="bradbury_desc">The Bradbury Building\'s nondescript, brick exterior belies any sense of significance-a Sprint store and the lingering smell of Subway don\'t exactly scream \"architectural gem.\" Walk through the entrance on Broadway, though, and you\'re greeted with a stunning, light-flooded alley of wood, iron and brick.</string>
+    <string name="bradbury_uri">geo:0,0?q=34.050837,-118.247800(Bradbury Building)</string>
+    <string name="union_station">Union Station</string>
+    <string name="union_station_desc">Opened in 1939 on the site of the original Chinatown, it was the last of the great American rail stations to be built, at a cost at the time of $11 million. By 1971, just seven passenger trains a day were running; today, however, things a just a little busier at LA Union Station.</string>
+    <string name="union_station_uri">geo:0,0?q=LA+Union+Station</string>
+    <string name="ca_sci_center">California Science Center</string>
+    <string name="ca_sci_center_desc">The California Science Center is a dynamic destination where families, adults, and children can explore the wonders of science through interactive exhibits, live demonstrations, innovative programs and awe-inspiring films.</string>
+    <string name="ca_sci_uri">geo:0,0?q=California+Science+Center</string>
+    <string name="nhm_la">Natural History Museum of Los Angeles</string>
+    <string name="nhm_la_desc">The Natural History Museum of Los Angeles County is the largest natural and historical museum in the western United States. Its collections include nearly 35 million specimens and artifacts that cover 4.5 billion years of history.</string>
+    <string name="nhm_uri">geo:0,0?q=Natural+History+Museum+of+Los+Angeles</string>
+    <string name="lacma">Los Angeles County Museum of Art</string>
+    <string name="lacma_desc">Located on Museum Row, adjacent to the La Brea Tar Pits, LACMA is the largest art museum in the western United States. It attracts nearly a million visitors annually, and holds more than 150,000 works spanning the history of art from ancient times to the present.</string>
+    <string name="lacma_uri">geo:0,0?q=LACMA</string>
+    <string name="the_broad">The Broad</string>
+    <string name="the_broad_desc">LA\'s newest contemporary art museum, The Broad, is the public home for Eli and Edith Broad\'s collection of 2,000 post-war works. Contained within are familiar pieces from the likes of Andy Warhol and Jeff Koons as well as spectacular installations like Yayoi Kusama\'s \"Infinity Mirrored Room.\"</string>
+    <string name="broad_uri">geo:0,0?q=The+Broad</string>
+    <string name="griffith">Griffith Observatory</string>
+    <string name="griffith_desc">For more than 80 years, this iconic Art Deco building has been a popular destination for locals and tourists, especially at sunset. Visitors can look trough telescopes, explore exhibits, see live shows in the Samuel Oschin Planetarium, and enjoy spectacular views of Los Angeles and the Hollywood Sign. </string>
+    <string name="griffith_uri">geo:0,0?q=Griffith+Observatory</string>
+</resources>
